@@ -1,0 +1,4 @@
+out/
+sources.txt
+threat_logs.csv
+*.class
