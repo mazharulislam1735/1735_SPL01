@@ -1,0 +1,8 @@
+[
+{"term":"dissolve","weight":3,"category":"CAT_CHEMICAL_DESTRUCTION","synonyms":["decompose completely"]},
+{"term":"vanish","weight":2,"category":"CAT_EVIDENCE_CONCEALMENT","synonyms":["make disappear"]},
+{"term":"dispose of the body","weight":5,"category":"CAT_EVIDENCE_CONCEALMENT","synonyms":[]},
+{"term":"developer mode","weight":4,"category":"CAT_JAILBREAK","synonyms":["jailbreak mode"]},
+{"term":"bad line without weight","category":"CAT_JAILBREAK"},
+{"term":"bleach","weight":2,"category":"CAT_CHEMICAL_DESTRUCTION","synonyms":["caustic soda"]}
+]
